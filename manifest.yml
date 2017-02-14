@@ -3,4 +3,4 @@
 -- name: sample-java-helloworld
 -  random-route: true
 -  memory: 256M
--  path: abcd/JavaHelloWorldApp.war
+-  path: JavaHelloWorldApp.war
